@@ -1,7 +1,8 @@
 # Urdu Stopwords
-I have been unable to make Urdu wordclouds/tagclouds using existing libraries (wordcloud and pytagcloud). While going through workarounds I found there is no publicly available list of stopwords (or words that should not be displayed in a wordcloud). Decided to publish my list on github. You're encouraged to add to the list.
+To my knowledge, this is the most comprehensive list of Urdu stopwords. Libraries on the web either don't contain urdu stopwords, or their lists contain many words that aren't Urdu. (I don't know many other languages but it seems most of the words in their lists are from other languages.)
 
-Yes, this isn't code. But Github felt like the best place to publish such a list where others could contribute to.
+## Application
+This list was compiled with regards to creating worclouds/tagclouds in Urdu, and might be best suited for this, but it is hoped that it will be useful in other applications.
 
-
-Please please contribute here or anywhere. Everything that works in English does not seem to work in Urdu. Do something about it!
+## Contribution
+Please contribute to the list. Everything that works in English does not work in Urdu. Please do something about it.
